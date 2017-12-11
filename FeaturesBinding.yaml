@@ -35,3 +35,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "6a9de057-1778-416a-8b0f-f19e6b9cb154"
+  name: ""
+  featureType:
+    id: "Mobile Resources"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
