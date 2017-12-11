@@ -44,3 +44,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "4a722868-c95c-43c6-a111-ff6b851a4323"
+  name: ""
+  featureType:
+    id: "Intelligent Notification 365 Email"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
