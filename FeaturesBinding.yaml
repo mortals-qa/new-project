@@ -1,0 +1,10 @@
+---
+- configuration: null
+  id: "f9a649be-96d8-4284-bc25-e33e10f68f30"
+  name: ""
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
