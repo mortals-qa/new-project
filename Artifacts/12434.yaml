@@ -1,0 +1,23 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "24324"
+- key: "ApplicationId"
+  value: ""
+id: null
+name: "12434"
+artifactTypeId: "iOS App"
+description:
+  title: ""
+  details: ""
+  icon: null
+  background: null
+  moreInfo: ""
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: "24324"
+  type: "Github"
