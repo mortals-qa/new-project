@@ -1,0 +1,70 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "testapp"
+- key: "ApplicationId"
+  value: ""
+id: null
+name: "testapp1"
+artifactTypeId: "Android App"
+description:
+  title: ""
+  details: "Digital Channel for Citizens to register complaints. ask questions or\
+    \ request services. Success is measured by adoption and Digital Channel for Citizens\
+    \ to register complaints. ask questions or request services. Success is measured\
+    \ by adoption and Digital Channel for Citizens to register complaints. ask questions\
+    \ or request services. Success is measured by adoption and Digital Channel for\
+    \ Citizens to register complaints. ask questions or request services. Success\
+    \ is measured by adoption and Digital Channel for Citizens to register complaints.\
+    \ ask questions or request services. Success is measured by adoption and Digital\
+    \ Channel for Citizens to register complaints. ask questions or request services.\
+    \ Success is measured by adoption and Digital Channel for Citizens to register\
+    \ complaints. ask questions or request services. Success is measured by adoption\
+    \ and Digital Channel for Citizens to register complaints. ask questions or request\
+    \ services. Success is measured by adoption and Digital Channel for Citizens to\
+    \ register complaints. ask questions or request services. Success is measured\
+    \ by adoption and Digital Channel for Citizens to register complaints. ask questions\
+    \ or request services. Success is measured by adoption and Digital Channel for\
+    \ Citizens to register complaints. ask questions or request services. Success\
+    \ is measured by adoption and Digital Channel for Citizens to register complaints.\
+    \ ask questions or request services. Success is measured by adoption and Digital\
+    \ Channel for Citizens to register complaints. ask questions or request services.\
+    \ Success is measured by adoption and Digital Channel for Citizens to register\
+    \ complaints. ask questions or request services. Success is measured by adoption\
+    \ and Digital Channel for Citizens to register complaints. ask questions or request\
+    \ services. Success is measured by adoption and Digital Channel for Citizens to\
+    \ register complaints. ask questions or request services. Success is measured\
+    \ by adoption and Digital Channel for Citizens to register complaints. ask questions\
+    \ or request services. Success is measured by adoption and Digital Channel for\
+    \ Citizens to register complaints. ask questions or request services. Success\
+    \ is measured by adoption and Digital Channel for Citizens to register complaints.\
+    \ ask questions or request services. Success is measured by adoption and Digital\
+    \ Channel for Citizens to register complaints. ask questions or request services.\
+    \ Success is measured by adoption and Digital Channel for Citizens to register\
+    \ complaints. ask questions or request services. Success is measured by adoption\
+    \ and Digital Channel for Citizens to register complaints. ask questions or request\
+    \ services. Success is measured by adoption and Digital Channel for Citizens to\
+    \ register complaints. ask questions or request services. Success is measured\
+    \ by adoption and Digital Channel for Citizens to register complaints. ask questions\
+    \ or request services. Success is measured by adoption and Digital Channel for\
+    \ Citizens to register complaints. ask questions or request services. Success\
+    \ is measured by adoption and Digital Channel for Citizens to register complaints.\
+    \ ask questions or request services. Success is measured by adoption and Digital\
+    \ Channel for Citizens to register complaints. ask questions or request services.\
+    \ Success is measured by adoption and Digital Channel for Citizens to register\
+    \ complaints. ask questions or request services. Success is measured by adoption\
+    \ and Digital Channel for Citizens to register complaints. ask questions or request\
+    \ services. Success is measured by adoption and Digital Channel for Citizens to\
+    \ register complaints. ask questions or request services. Success is measured\
+    \ by adoption and"
+  icon: null
+  background: null
+  moreInfo: ""
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: "testapp"
+  type: "Github"
