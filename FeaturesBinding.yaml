@@ -17,3 +17,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "fd89617a-eaa7-49bf-8d74-153afced746c"
+  name: ""
+  featureType:
+    id: "SAP HANA"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
